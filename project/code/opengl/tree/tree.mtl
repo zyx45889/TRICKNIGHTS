@@ -1,0 +1,16 @@
+# Blender MTL File: 'Banana_Plant_01.blend'
+# Material Count: 1
+
+newmtl Banana_Plant
+ Ns 225.000000
+ Ka 1.000000 1.000000 1.000000
+ Kd 0.800000 0.800000 0.800000
+ Ks 0.500000 0.500000 0.500000
+ Ke 0.000000 0.000000 0.000000
+ Ni 1.450000
+ d 1.000000
+ illum 2
+map_Bump /Volumes/Macintosh HD Work/MarketPlace's Models/2020/Trees/Banana/Textures/Banana_Plants_Normal_OpenGL.png
+ map_Kd ./tree/textures/Banana_Plants_BaseColor.png
+map_Ns /Volumes/Macintosh HD Work/MarketPlace's Models/2020/Trees/Banana/Textures/Banana_Plants_Roughness.png
+map_d /Volumes/Macintosh HD Work/MarketPlace's Models/2020/Trees/Banana/Textures/Banana_Plants_Opacity.png
